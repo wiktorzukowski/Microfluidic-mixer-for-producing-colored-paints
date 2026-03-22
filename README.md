@@ -76,7 +76,15 @@ To test the limits of the micro-geometries, materials with significant viscosity
 2. **Quantitative Analysis:** Collecting droplets from the outlet onto a neutral white substrate.
 3. **Digital Processing:** Scanning and decomposing data into **RGB components**.
 
-## 6. Experimental Results
+## 6. Visualization of the Mixing Process
+
+The sequence (A–G) illustrates the evolution of the mixing process along the microchannel. As the fluid moves through subsequent segments, a transition from two separate phases to a homogeneous color can be observed. This demonstrates the effectiveness of the chosen geometry in handling high-viscosity paints.
+
+<img width="389" height="461" alt="closeup" src="https://github.com/user-attachments/assets/bf09079c-f4c2-49c4-95a1-c663db399eaf" />
+
+**Description:** Performance analysis of the micromixer
+
+## 7. Experimental Results
 
 Measurement results were compiled for both designs while maintaining a **constant base pressure of 120 mbar** and varying the colorant pressure (90–140 mbar).
 
@@ -113,7 +121,7 @@ For **Version 1**, a clear **linear correlation** was observed in the 90–110 m
   </tr>
 </table>
 
-## 7. Summary and Conclusions
+## 8. Summary and Conclusions
 * **Success Criteria:** Both micro-mixer architectures successfully produced homogeneous colored paints across various proportions.
 * **Industrial Compatibility:** Commercial-grade components were successfully applied, confirming the viability of the designed geometries for industrial-scale materials.
 * **Novelty:** No existing literature specifically addresses micro-mixing for these high-viscosity architectural coatings. This study establishes a foundational reference for miniaturized paint production.
